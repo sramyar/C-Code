@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<ctype.h>
 #define MAX_LEN 1000
 #define EMPTY -1
 #define FULL (MAX_LEN-1)
@@ -41,7 +42,7 @@ int main(void)
 {   
 
     stack a;
-    char str[] = "abcde";
+    char str[] = "abcd";
     char back[20];
     int i=0;
     while (str[i]!='\0')
