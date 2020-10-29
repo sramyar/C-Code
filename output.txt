@@ -1,0 +1,2 @@
+Thiz iz an input.
+All lowercaze 'S' are to be changed to z.

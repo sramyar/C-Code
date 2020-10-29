@@ -1,0 +1,2 @@
+This is an input.
+All lowercase 'S' are to be changed to z.
